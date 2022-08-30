@@ -1,4 +1,4 @@
-### Hi there, I am Gabriel 👋
+### Hello there, I am Gabriel :rocket:
 
 🔭 I have always considered myself as a really creative and interested person. Thus, the programming/development world seemed as the perfect fit for me
 
