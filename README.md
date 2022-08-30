@@ -2,7 +2,7 @@
 
 🔭 I have always considered myself as a really creative and interested person. Thus, the programming/development world seemed as the perfect fit for me
 
-🌱 I am currently a Gap Year Student, and I am learning Back-End Engineering by myself (with a little help from Codecademy...)
+🌱 I am currently a Gap Year Student learning Back-End Engineering by myself (with a little help from Codecademy...)
 
 :card_file_box: My main focus right now is to specialize myself in JavaScript, as well as Node.JS
 
