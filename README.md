@@ -4,7 +4,7 @@
 
 🌱 I am a Gap Year Student learning Python by myself (with a little help from Codecademy and Alura...)
 
-:card_file_box: My main focus right now is to specialize myself in Java.
+:card_file_box: My main focus right now is to specialize myself in Python.
 
 ⚡ A nice quote: "Injecting some confusion stabilizes the system"
 
