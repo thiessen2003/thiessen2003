@@ -2,9 +2,9 @@
 
 🔭 I have always considered myself as a really creative and interested person. Thus, the programming/development world seemed as a perfect fit.
 
-🌱 I am a Computer Science student at UPenn learning Python (with a little help from Codecademy and Alura...)
+🌱 I am a Computer Science student at UPenn learning Java (with a little help from Codecademy and Alura...)
 
-:card_file_box: My main focus right now is to specialize myself in Python.
+:card_file_box: My main focus right now is to specialize myself in Java.
 
 ⚡ A nice quote: "Injecting some confusion stabilizes the system"
 
