@@ -4,8 +4,6 @@
 
 :card_file_box: My main focus right now is to specialize myself in Java to work with software development.
 
-⚡ A nice quote: "Injecting some confusion stabilizes the system"
-
 <div align="center">
   <a href="https://github.com/thiessen2003">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiessen2003&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
