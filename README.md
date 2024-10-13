@@ -1,6 +1,6 @@
 ### Hello there, I am Gabriel :rocket:
 
-🌱 I am a freshman studying Computer Science student at UPenn, trying to learning Java (with a little help from Codecademy and Alura...)
+🌱 I am a sophomore studying Computer Science student at Penn
 
 :card_file_box: My main focus right now is to specialize myself in Java to work with software development.
 
